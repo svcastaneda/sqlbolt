@@ -1,2 +1,3 @@
-# sqlbolt
-answers and notes for SQLBolt
+# SQLBolt
+
+answers for [SQLBolt](https://sqlbolt.com/)
